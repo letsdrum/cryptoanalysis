@@ -1,0 +1,27 @@
+c:\documents\visual studio 2013\Projects\cr1.2\cr1.2\bin\Debug\cr1.2.exe.config
+c:\documents\visual studio 2013\Projects\cr1.2\cr1.2\bin\Debug\cr1.2.exe
+c:\documents\visual studio 2013\Projects\cr1.2\cr1.2\bin\Debug\cr1.2.pdb
+c:\documents\visual studio 2013\Projects\cr1.2\cr1.2\obj\Debug\cr1.2.csprojResolveAssemblyReference.cache
+c:\documents\visual studio 2013\Projects\cr1.2\cr1.2\obj\Debug\cr1._2.Form1.resources
+c:\documents\visual studio 2013\Projects\cr1.2\cr1.2\obj\Debug\cr1._2.Properties.Resources.resources
+c:\documents\visual studio 2013\Projects\cr1.2\cr1.2\obj\Debug\cr1.2.csproj.GenerateResource.Cache
+c:\documents\visual studio 2013\Projects\cr1.2\cr1.2\obj\Debug\cr1.2.exe
+c:\documents\visual studio 2013\Projects\cr1.2\cr1.2\obj\Debug\cr1.2.pdb
+C:\Users\User\Desktop\kripta\cr1.2\cr1.2\bin\Debug\cr1.2.exe.config
+C:\Users\User\Desktop\kripta\cr1.2\cr1.2\obj\Debug\cr1.2.exe
+C:\Users\User\Desktop\kripta\cr1.2\cr1.2\obj\Debug\cr1.2.pdb
+C:\Users\User\Desktop\kripta\cr1.2\cr1.2\bin\Debug\cr1.2.exe
+C:\Users\User\Desktop\kripta\cr1.2\cr1.2\bin\Debug\cr1.2.pdb
+C:\Users\User\Desktop\kripta\cr1.2\cr1.2\obj\Debug\cr1.2.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\kripta\cr1.2\cr1.2\obj\Debug\cr1._2.Form1.resources
+C:\Users\User\Desktop\kripta\cr1.2\cr1.2\obj\Debug\cr1._2.Properties.Resources.resources
+C:\Users\User\Desktop\kripta\cr1.2\cr1.2\obj\Debug\cr1.2.csproj.GenerateResource.Cache
+C:\Users\Админ\Desktop\cr1.2\cr1.2\bin\Debug\cr1.2.exe.config
+C:\Users\Админ\Desktop\cr1.2\cr1.2\obj\Debug\cr1.2.exe
+C:\Users\Админ\Desktop\cr1.2\cr1.2\obj\Debug\cr1.2.pdb
+C:\Users\Админ\Desktop\cr1.2\cr1.2\bin\Debug\cr1.2.exe
+C:\Users\Админ\Desktop\cr1.2\cr1.2\bin\Debug\cr1.2.pdb
+C:\Users\Админ\Desktop\cr1.2\cr1.2\obj\Debug\cr1.2.csprojResolveAssemblyReference.cache
+C:\Users\Админ\Desktop\cr1.2\cr1.2\obj\Debug\cr1._2.Form1.resources
+C:\Users\Админ\Desktop\cr1.2\cr1.2\obj\Debug\cr1._2.Properties.Resources.resources
+C:\Users\Админ\Desktop\cr1.2\cr1.2\obj\Debug\cr1.2.csproj.GenerateResource.Cache
